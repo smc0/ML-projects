@@ -1,1 +1,1 @@
-
+This project uses Seattle driving data collected from movement.uber.com. Using start and end coordinates for each trip, a custom AWS-hosted routing server is used to calculate driving distances to be used as a feature for modeling trip time. Tested models include median prediction (baseline), linear regression, random forest regression, and neural networks.
