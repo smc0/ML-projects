@@ -2,7 +2,7 @@ This purpose of this project is to analyze rock climbing route ratings from a po
 
 Analysis is spread across three notebooks (links to Jupyter Notebook Viewer)
 
-1. https://nbviewer.jupyter.org/github/smc0/ML-projects/blob/master/MountainProjectRatings/MtnProjScraper.ipynb
+1. https://nbviewer.jupyter.org/github/smc0/ML-projects/blob/master/MountainProjectRatings/MtnProjScraper.ipynb  
 This notebook contains code to scrape data from route pages.
 
 2. https://nbviewer.jupyter.org/github/smc0/ML-projects/blob/master/MountainProjectRatings/MtnProjDataVis.ipynb
